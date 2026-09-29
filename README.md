@@ -110,10 +110,7 @@ philosophy: "Talk is cheap. Ship the thing."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dannybyarun&show_icons=true&hide_border=true&bg_color=0d1117&title_color=05d9e8&icon_color=ff2a6d&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dannybyarun&hide_border=true&background_color=0d1117&stroke=ff2a6d&ring=05d9e8&fire=ff2a6d&currStreakLabel=05d9e8&sideLabels=c9d1d9&currLevelNum=05d9e8&maxLevelNum=d300c5" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannybyarun&layout=compact&hide_border=true&bg_color=0d1117&title_color=05d9e8&text_color=c9d1d9&langs_count=8" height="165" />
-
+<img src="https://streak-stats.demolab.com/?user=dannybyarun&hide_border=true&background_color=0d1117&stroke=ff2a6d&ring=05d9e8&fire=ff2a6d&currStreakLabel=05d9e8&sideLabels=c9d1d9&currLevelNum=05d9e8&maxLevelNum=d300c5" height="165" />
 <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="profile details" />
 <img src="profile-summary-card-output/2077/3-stats.svg" alt="stats" />
 <img src="profile-summary-card-output/2077/4-productive-time.svg" alt="productive time" />
