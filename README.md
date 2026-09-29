@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ff2a6d,50:d300c5,100:05d9e8&text=DANNY%20BYARUN&stroke=05d9e8&strokeWidth=2&desc=builds%20that%20hit%20different&descSize=18&descAlignY=68" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=05D9E8&center=true&vCenter=true&random=false&width=700&lines=%3E+init+danny.exe+...+OK;Full-Stack+Dev+%2B+Web3+Degen+%2B+AI+Agent+Builder;Shipping+SajiloKhata+%F0%9F%87%B3%F0%9F%87%B5+%7C+WA+infra+%7C+NFT+bots;Talk+is+cheap.+Show+me+the+commit+history.)](https://github.com/dannybyarun)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=05D9E8&center=true&vCenter=true&random=false&width=900&lines=%3E+init+danny.exe+...+OK;Full-Stack+Dev+%2B+Web3+Degen+%2B+AI+Agent+Builder;Shipping+SajiloKhata+%F0%9F%87%B3%F0%9F%87%B5+%7C+WA+infra+%7C+NFT+bots;Talk+is+cheap.+Show+me+the+commit+history.)](https://github.com/dannybyarun)
 
 [![GitHub followers](https://img.shields.io/github/followers/dannybyarun?style=for-the-badge&logo=github&color=ff2a6d&labelColor=0d1117&label=FOLLOWERS)](https://github.com/dannybyarun?tab=followers)
 [![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdannybyarun&query=%24.public_repos&style=for-the-badge&logo=git&color=05d9e8&labelColor=0d1117&label=REPOS)](https://github.com/dannybyarun?tab=repositories)
