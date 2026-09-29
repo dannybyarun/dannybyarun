@@ -9,7 +9,7 @@
 ![Visitor count](https://komarev.com/ghpvc/?username=dannybyarun&style=for-the-badge&color=ff2a6d&label=PROFILE+VIEWS)
 ![Profile views](https://img.shields.io/badge/VIBES-CYBERPUNK-d300c5?style=for-the-badge&labelColor=0d1117)
 <br/>
-![Latest push](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdannybyarun%2Fevents%2Fpublic&query=%24%5B0%5D.repo.name&style=for-the-badge&color=05d9e8&labelColor=0d1117&label=LATEST%20TRANSMISSION&logo=github)
+![Latest push](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdannybyarun%2Fevents%2Fpublic&query=%24%5B%3F%28%40.repo.name%21%3D%22dannybyarun%2Fdannybyarun%22%29%5D%5B0%5D.repo.name&style=for-the-badge&color=05d9e8&labelColor=0d1117&label=LATEST%20TRANSMISSION&logo=github)
 
 </div>
 
