@@ -8,6 +8,8 @@
 [![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdannybyarun&query=%24.public_repos&style=for-the-badge&logo=git&color=05d9e8&labelColor=0d1117&label=REPOS)](https://github.com/dannybyarun?tab=repositories)
 ![Visitor count](https://komarev.com/ghpvc/?username=dannybyarun&style=for-the-badge&color=ff2a6d&label=PROFILE+VIEWS)
 ![Profile views](https://img.shields.io/badge/VIBES-CYBERPUNK-d300c5?style=for-the-badge&labelColor=0d1117)
+<br/>
+![Latest push](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdannybyarun%2Fevents%2Fpublic&query=%24%5B0%5D.repo.name&style=for-the-badge&color=05d9e8&labelColor=0d1117&label=LATEST%20TRANSMISSION&logo=github)
 
 </div>
 
@@ -118,8 +120,27 @@ philosophy: "Talk is cheap. Ship the thing."
 <br/>
 <img src="profile-summary-card-output/2077/1-repos-per-language.svg" alt="repos per language" />
 <img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="most commit language" />
+<br/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution city" width="100%" />
 
 </div>
+
+## 🎲 Random Dev Wisdom
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="random dev joke" />
+
+</div>
+
+<!-- 📈 WAKATIME SETUP (2 steps):
+     1. Get your key at wakatime.com/settings/api-key and add it as a WakaTime secret
+     2. Uncomment the block below
+## ⏱️ Coding Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dannybyarun&hide_border=true&bg_color=0d1117&title_color=05d9e8&text_color=c9d1d9&icon_color=ff2a6d&layout=compact" alt="wakatime coding stats" />
+</div>
+-->
 
 ## 🐍 The Snake Ate My Commits
 

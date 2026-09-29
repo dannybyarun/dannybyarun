@@ -1,0 +1,33 @@
+name: generate 3d contribution graph
+
+on:
+  schedule:
+    - cron: "30 0 * * 0" # weekly, Sundays
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile-3d-contrib/**"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git commit -m "generate 3d contribution graph" || echo "no changes"
+          git push
