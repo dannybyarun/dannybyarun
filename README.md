@@ -65,7 +65,6 @@ philosophy: "Talk is cheap. Ship the thing."
 | [**technocore-mcp**](https://github.com/dannybyarun/technocore-mcp) | MCP server for the TechnoCore stack |
 | [**ai-csc266-exam-pack**](https://github.com/dannybyarun/ai-csc266-exam-pack) | AI (CSC266) exam prep — curated & battle-tested |
 | [**lumina-film**](https://github.com/dannybyarun/lumina-film) | Production package for *Lumina*, an AI short film |
-| [**fonepay-reusable**](https://github.com/dannybyarun/fonepay-reusable) | Reusable Fonepay integration (Nepal 🇳🇵 payments) |
 
 ## 🔒 Classified: Private Builds
 
@@ -80,6 +79,7 @@ philosophy: "Talk is cheap. Ship the thing."
 - **SajiloKhata** (v1 → v4 + Next.js redesign + Play Store kit) — Nepali digital ledger (Bahi-Khata) app, shipped end-to-end 🇳🇵
 - **invio** — self-hosted invoicing with SSRF-hardened template installs
 - **sajilo-next-v2** — "Crimson Coral & Warm Amber" ledger UI redesign
+- **fonepay-reusable** — reusable Fonepay payment integration (Nepal 🇳🇵)
 
 **💬 WhatsApp Infrastructure**
 - **wa-gateway** — self-hosted multi-session WhatsApp gateway (Baileys): REST + WebSocket + webhooks
