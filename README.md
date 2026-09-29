@@ -112,7 +112,13 @@ philosophy: "Talk is cheap. Ship the thing."
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannybyarun&hide_border=true&background_color=0d1117&stroke=ff2a6d&ring=05d9e8&fire=ff2a6d&currStreakLabel=05d9e8&sideLabels=c9d1d9&currLevelNum=05d9e8&maxLevelNum=d300c5" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannybyarun&layout=compact&hide_border=true&bg_color=0d1117&title_color=05d9e8&text_color=c9d1d9&langs_count=8" height="165" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=dannybyarun&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=10" width="100%" />
+<img src="profile-summary-cards-output/github_dark/profile-details.svg" alt="profile details" />
+<img src="profile-summary-cards-output/github_dark/stats.svg" alt="stats" />
+<img src="profile-summary-cards-output/github_dark/productive-time.svg" alt="productive time" />
+<br/>
+<img src="profile-summary-cards-output/github_dark/repos-per-language.svg" alt="repos per language" />
+<img src="profile-summary-cards-output/github_dark/most-commit-language.svg" alt="most commit language" />
+<img src="profile-summary-cards-output/github_dark/commit-time-series.svg" alt="commit time series" />
 
 </div>
 
